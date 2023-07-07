@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "Addrs",
+    "backoff",
+    "bincode",
+    "EMFILE",
+    "ENFILE",
+    "ENOBUFS",
+    "ENOMEM",
+    "fevent",
+    "genkey",
+    "hasher",
+    "intvl",
+    "keepalive",
+    "keypair",
+    "nodelay",
+    "oneshot",
+    "pkcs",
+    "PROTO",
+    "Rescan",
+    "rfind"
+  ]
+}
