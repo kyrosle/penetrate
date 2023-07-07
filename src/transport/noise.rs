@@ -4,7 +4,6 @@ use anyhow::{anyhow, Context, Result};
 use async_trait::async_trait;
 use snowstorm::{Builder, NoiseParams, NoiseStream};
 use tokio::net::{TcpListener, TcpStream, ToSocketAddrs};
-use tracing::debug;
 
 use crate::config::{NoiseConfig, TransportConfig};
 
